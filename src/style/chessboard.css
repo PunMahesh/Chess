@@ -1,3 +1,5 @@
+/* Chess Board CSS */
+
 .chessboard {
     display: grid;
     grid-template-columns: repeat(8, 60px);
